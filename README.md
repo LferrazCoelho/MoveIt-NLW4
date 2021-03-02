@@ -1,7 +1,7 @@
 # MoveIt | NLW 4
 Aplicação realizada durante o 4º evento da NLW - RocketSeat
 
-! [moveit.gif] (https://github.com/LferrazCoelho/MoveIt-NLW4/blob/main/moveit.gif)
+[moveit.gif](https://github.com/LferrazCoelho/MoveIt-NLW4/blob/main/moveit.gif)
 
 ## Objetivo
 Se aumentar seu foco nas atividades do dia a dia e controlar seu tempo é o que falta para alcançar seu próximo nível, 
